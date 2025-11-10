@@ -1,4 +1,4 @@
-package DSA.Array.Day9;
+package DSA.Day9;
 
 public class LinearSearch {
     public static void main(String[] args) {
